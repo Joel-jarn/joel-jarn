@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Joel-jarn/joel-jarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I’m Joel J 👋
 
 I’m an aspiring AI and ML engineer with a strong interest in **embedded systems and IoT projects**. I focus on **practical implementations of AI** and **hardware-based solutions**, turning innovative ideas into working prototypes. I also have experience in **volunteering and student leadership**, coordinating teams and managing projects effectively.
@@ -20,21 +15,35 @@ I’m an aspiring AI and ML engineer with a strong interest in **embedded system
 
 ## 🤝 Volunteering & Management
 - Led inter/intra university events 
-- active position in university voluntry body
+- Active position in university voluntary body
 - Led and coordinated student teams for tech and innovation initiatives  
 - Managed project timelines, resources, and event organization  
 
-## 📫 Contact
-[joeljgeorge08@gmail.com]
+## 🔭 I’m currently working on
+- Enhancing AI chatbot capabilities and GUI animations  
+- Integrating advanced sensor modules in IoT systems  
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+- Advanced AI algorithms for embedded systems  
+- Real-time control and automation projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 I’m looking to collaborate on
+- IoT-based smart devices  
+- AI-driven hardware solutions  
+
+## 🤔 I’m looking for help with
+- Optimizing embedded AI deployments  
+- Efficient multi-sensor integration  
+
+## 💬 Ask me about
+- Python programming, ESP32/ESP8266 projects, AI/ML  
+- Student project management and event organization  
+
+## 📫 How to reach me
+- Email: [joeljgeorge08@gmail.com](mailto:joeljgeorge08@gmail.com)
+
+## 😄 Pronouns
+- He/Him  
+
+## ⚡ Fun fact
+- I enjoy combining AI with hardware to create cool, practical projects!
