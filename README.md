@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=JOEL%20J%20GEORGE&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 </p>
 
@@ -65,3 +65,4 @@ I’m an aspiring AI and ML engineer with a strong interest in **embedded system
 <p align="right">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="60" />
 </p>
+](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#moving-logos-)
