@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=CURIOUS%20TECH%20GEEK&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=CURIOUS%20TECH%20GEEK&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -12,7 +11,7 @@
 </p>
 
 ### 🚀 About Me
-[cite_start]I am a solution-driven **Artificial Intelligence & Machine Learning student** (GPA: 3.8/4) [cite: 3, 7] [cite_start]specializing in architecting scalable technical solutions[cite: 3]. [cite_start]My expertise ranges from **computer vision-based diagnostic systems** to **embedded systems** for real-time decision logic[cite: 3]. [cite_start]I have a proven ability to manage the transition from research to pre-incubation, combining technical ownership with collaborative leadership[cite: 4].
+[cite_start]I am a solution-driven **Artificial Intelligence & Machine Learning student** with a 3.8/4 GPA[cite: 3, 7]. [cite_start]I specialize in architecting scalable technical solutions ranging from **computer vision-based diagnostic systems** to **embedded systems** for real-time decision logic[cite: 3]. [cite_start]I have a proven track record of transitioning projects from research to pre-incubation, combining technical ownership with leadership in innovation environments[cite: 4].
 
 ---
 
@@ -32,7 +31,7 @@
 </p>
 
 ## 🔬 Featured Projects
-* [cite_start]**AI-Based DCD Detection System (Pre-Incubated):** Developed ML approaches for early detection of Developmental Coordination Disorder using video-based motion patterns and behavioral features[cite: 9, 10].
+* [cite_start]**AI-Based DCD Detection System (Pre-Incubated):** Developed machine learning approaches for early detection of Developmental Coordination Disorder using video-based motion patterns[cite: 9, 10].
 * [cite_start]**Mechanical Energy Generation System:** Designed a hydraulic resistance-based system for sustainable power generation[cite: 12, 14].
 * [cite_start]**Smart Driving Lights System:** Built an adaptive vehicle lighting system using microcontrollers for real-time glare reduction[cite: 15].
 
@@ -52,7 +51,7 @@
 ---
 
 ## 🎖 Leadership & Achievements
-* [cite_start]**Senior Volunteer (SWO):** Orchestrated the logistical framework for 50+ university-level events[cite: 17, 19].
+* [cite_start]**Senior Volunteer (SWO):** Orchestrated the logistical and technical framework for 50+ university-level events[cite: 17, 19].
 * [cite_start]**National Nominee:** INSPIRE Award - MANAK[cite: 24].
 * **National Attendee:** YES! [cite_start]Summit[cite: 28].
 
@@ -73,6 +72,5 @@
 </p>
 
 <p align="right">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Developer.gif?raw=true" width="150">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/Assets/Working_Man.gif?raw=true" width="150">
 </p>
-```
